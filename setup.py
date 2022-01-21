@@ -17,7 +17,7 @@ setup(
         'sklearn',
         'unidecode == 1.1',
         'toolz == 0.10.0',
-        'ipython == 7.7',
+        'ipython == 7.16.3',
         'graphviz == 0.11.1',
     ]
 )
